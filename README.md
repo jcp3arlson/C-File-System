@@ -1,4 +1,4 @@
-# oopstudios_base
+# GO INTO LAB5 README FOR FULL PROJECT DETAILS
+
 base repo for studios 16-21 and lab 5.
 
-GO INTO LAB5 README FOR FULL PROJECT DETAILS
